@@ -1,0 +1,22 @@
+{
+    "nama": "Nurul Hidayatul Hasanah",
+    "nim": "22082010013",
+    "transkrip": [
+      {
+        "mata_kuliah": "Pemograman Mobile",
+        "nilai": 3.75,
+        "sks": 3
+      },
+      {
+        "mata_kuliah": "Pemrograman Desktop",
+        "nilai": 4,
+        "sks": 4
+      },
+      {
+        "mata_kuliah": "Pemograman Mobile",
+        "nilai": 4,
+        "sks": 3
+      }
+    ]
+  }
+  
