@@ -1,0 +1,6 @@
+{
+    "editor.codeActionWidget.includeNearbyQuickFixes": false,
+    "editor.codeActionWidget.showHeaders": false,
+    "editor.columnSelection": false,
+    "editor.comments.ignoreEmptyLines": true
+}
